@@ -1,0 +1,28 @@
+{
+  "name": "inner-join",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tapiwakanda/inner-join.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tapiwakanda/inner-join/issues"
+  },
+  "homepage": "https://github.com/tapiwakanda/inner-join#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "sequelize": "^6.6.5"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
